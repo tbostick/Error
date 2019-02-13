@@ -23,7 +23,7 @@ public class Main {
                 System.out.println("That's right!  You're a good guesser");
                 break;
             } else {
-                System.out.println("Tha is incorrect. Guess again.");
+                System.out.println("That is incorrect. Guess again.");
             }
         }while (guess != secrectNum);
     }
